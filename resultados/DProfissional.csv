@@ -1,0 +1,27 @@
+IDProfissional,TipoProfissional,Escolaridade,Sexo
+0,Técnico Admnistrativo,Fundamental Incompleto,Todos
+1,Técnico Admnistrativo,Fundamental Incompleto,Feminino
+2,Técnico Admnistrativo,Fundamental Incompleto,Masculino
+3,Técnico Admnistrativo,Fundamental Completo,Todos
+4,Técnico Admnistrativo,Fundamental Completo,Feminino
+5,Técnico Admnistrativo,Fundamental Completo,Masculino
+6,Técnico Admnistrativo,Médio,Todos
+7,Técnico Admnistrativo,Médio,Feminino
+8,Técnico Admnistrativo,Médio,Masculino
+9,Técnico Admnistrativo,Superior,Todos
+10,Técnico Admnistrativo,Superior,Feminino
+11,Técnico Admnistrativo,Superior,Masculino
+12,Técnico Admnistrativo,Especialização,Todos
+13,Técnico Admnistrativo,Especialização,Feminino
+14,Técnico Admnistrativo,Especialização,Masculino
+15,Técnico Admnistrativo,Mestrado,Todos
+16,Técnico Admnistrativo,Mestrado,Feminino
+17,Técnico Admnistrativo,Mestrado,Masculino
+18,Técnico Admnistrativo,Doutorado,Todos
+19,Técnico Admnistrativo,Doutorado,Feminino
+20,Técnico Admnistrativo,Doutorado,Masculino
+21,Docente,Sem Graduação,Todos
+22,Docente,Superior,Todos
+23,Docente,Especialização,Todos
+24,Docente,Mestrado,Todos
+25,Docente,Doutorado,Todos

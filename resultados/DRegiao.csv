@@ -1,0 +1,779 @@
+IDRegiao,NomeRegiao,NomeUnidadeFederacao,SiglaUnidadeFederacao,NomeMunicipio,CodigoMunicipio
+0,Centro-Oeste,Mato Grosso,MT,Cuiabá,5103403
+1,Centro-Oeste,Distrito Federal,DF,Brasília,5300108
+2,Nordeste,Sergipe,SE,São Cristóvão,2806701
+3,Norte,Amazonas,AM,Manaus,1302603
+4,Nordeste,Piauí,PI,Teresina,2211001
+5,Sudeste,Minas Gerais,MG,Ouro Preto,3146107
+6,Sudeste,São Paulo,SP,São Carlos,3548906
+7,Sudeste,Minas Gerais,MG,Viçosa,3171303
+8,Sul,Paraná,PR,Londrina,4113700
+9,Sul,Paraná,PR,Curitiba,4106902
+10,Nordeste,Pernambuco,PE,Recife,2611606
+11,Sul,Rio Grande do Sul,RS,Rio Grande,4315602
+12,Sul,Rio Grande do Sul,RS,Caxias do Sul,4305108
+13,Sul,Rio Grande do Sul,RS,São Leopoldo,4318705
+14,Sudeste,Rio de Janeiro,RJ,Petrópolis,3303906
+15,Sudeste,Minas Gerais,MG,Uberlândia,3170206
+16,Sul,Rio Grande do Sul,RS,Pelotas,4314407
+17,Sudeste,São Paulo,SP,Campinas,3509502
+18,Sul,Rio Grande do Sul,RS,Passo Fundo,4314100
+19,Sul,Rio Grande do Sul,RS,Porto Alegre,4314902
+20,Sudeste,São Paulo,SP,São Paulo,3550308
+21,Sul,Rio Grande do Sul,RS,Novo Hamburgo,4313409
+22,Nordeste,Bahia,BA,Ilhéus,2913606
+23,Sudeste,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+24,Sudeste,Minas Gerais,MG,Três Corações,3169307
+25,Nordeste,Ceará,CE,Fortaleza,2304400
+26,Sudeste,Minas Gerais,MG,Alfenas,3101607
+27,Nordeste,Alagoas,AL,Maceió,2704302
+28,Sudeste,São Paulo,SP,Sorocaba,3552205
+29,Sudeste,São Paulo,SP,Americana,3501608
+30,Sudeste,São Paulo,SP,Santos,3548500
+31,Sudeste,São Paulo,SP,Jaú,3525300
+32,Norte,Pará,PA,Belém,1501402
+33,Nordeste,Bahia,BA,Salvador,2927408
+34,Sul,Santa Catarina,SC,Florianópolis,4205407
+35,Centro-Oeste,Goiás,GO,Anápolis,5201108
+36,Sul,Paraná,PR,Maringá,4115200
+37,Sudeste,São Paulo,SP,São Bernardo do Campo,3548708
+38,Sudeste,São Paulo,SP,Franca,3516200
+39,Sudeste,São Paulo,SP,Piracicaba,3538709
+40,Sudeste,São Paulo,SP,Penápolis,3537305
+41,Nordeste,Rio Grande do Norte,RN,Mossoró,2408003
+42,Nordeste,Pernambuco,PE,Palmares,2610004
+43,Nordeste,Pernambuco,PE,Arcoverde,2601201
+44,Sudeste,São Paulo,SP,São José do Rio Pardo,3549706
+45,Sul,Santa Catarina,SC,Blumenau,4202404
+46,Sudeste,Espírito Santo,ES,Alegre,3200201
+47,Sudeste,São Paulo,SP,Catanduva,3511102
+48,Sul,Santa Catarina,SC,Rio do Sul,4214805
+49,Sul,Santa Catarina,SC,Joinville,4209102
+50,Sul,Santa Catarina,SC,Joaçaba,4209003
+51,Sul,Santa Catarina,SC,Itajaí,4208203
+52,Sudeste,Rio de Janeiro,RJ,Macaé,3302403
+53,Sul,Santa Catarina,SC,Brusque,4202909
+54,Sudeste,São Paulo,SP,Jundiaí,3525904
+55,Nordeste,Ceará,CE,Sobral,2312908
+56,Sudeste,Minas Gerais,MG,Conselheiro Lafaiete,3118304
+57,Sudeste,Minas Gerais,MG,São João del Rei,3162500
+58,Sudeste,São Paulo,SP,Andradina,3502101
+59,Sudeste,São Paulo,SP,Araraquara,3503208
+60,Sudeste,São Paulo,SP,Araras,3503307
+61,Sudeste,Minas Gerais,MG,Santa Rita do Sapucaí,3159605
+62,Sudeste,São Paulo,SP,Barra Bonita,3505302
+63,Sudeste,São Paulo,SP,Batatais,3505906
+64,Sudeste,São Paulo,SP,Bauru,3506003
+65,Sudeste,São Paulo,SP,Ribeirão Preto,3543402
+66,Sudeste,Minas Gerais,MG,Uberaba,3170107
+67,Sudeste,Rio de Janeiro,RJ,Vassouras,3306206
+68,Sudeste,Minas Gerais,MG,Varginha,3170701
+69,Nordeste,Pernambuco,PE,Olinda,2609600
+70,Sudeste,São Paulo,SP,São José do Rio Preto,3549805
+71,Nordeste,Pernambuco,PE,Caruaru,2604106
+72,Sudeste,São Paulo,SP,Mococa,3530508
+73,Sudeste,Minas Gerais,MG,Pouso Alegre,3152501
+74,Sudeste,Minas Gerais,MG,Belo Horizonte,3106200
+75,Sudeste,São Paulo,SP,São João da Boa Vista,3549102
+76,Sudeste,São Paulo,SP,Monte Aprazível,3531407
+77,Sudeste,São Paulo,SP,Votuporanga,3557105
+78,Sudeste,São Paulo,SP,Santo André,3547809
+79,Sudeste,São Paulo,SP,Mogi das Cruzes,3530607
+80,Sudeste,São Paulo,SP,Osasco,3534401
+81,Sudeste,São Paulo,SP,Pirassununga,3539301
+82,Sudeste,São Paulo,SP,Ourinhos,3534708
+83,Sudeste,Espírito Santo,ES,Vitória,3205309
+84,Sudeste,São Paulo,SP,Tupã,3555000
+85,Sudeste,São Paulo,SP,Presidente Prudente,3541406
+86,Sudeste,São Paulo,SP,São José dos Campos,3549904
+87,Sudeste,Minas Gerais,MG,Itajubá,3132404
+88,Sudeste,Minas Gerais,MG,Governador Valadares,3127701
+89,Sul,Rio Grande do Sul,RS,Três de Maio,4321808
+90,Sul,Rio Grande do Sul,RS,Santa Cruz do Sul,4316808
+91,Sul,Rio Grande do Sul,RS,Bagé,4301602
+92,Sul,Paraná,PR,Jandaia do Sul,4112108
+93,Sudeste,Minas Gerais,MG,Divinópolis,3122306
+94,Sudeste,Minas Gerais,MG,Barbacena,3105608
+95,Sudeste,São Paulo,SP,Tatuí,3554003
+96,Sudeste,Rio de Janeiro,RJ,Nova Iguaçu,3303500
+97,Sudeste,Minas Gerais,MG,Juiz de Fora,3136702
+98,Nordeste,Paraíba,PB,João Pessoa,2507507
+99,Sudeste,São Paulo,SP,Limeira,3526902
+100,Sudeste,São Paulo,SP,São Caetano do Sul,3548807
+101,Sudeste,Minas Gerais,MG,Montes Claros,3143302
+102,Centro-Oeste,Goiás,GO,Goiânia,5208707
+103,Centro-Oeste,Mato Grosso do Sul,MS,Campo Grande,5002704
+104,Nordeste,Sergipe,SE,Aracaju,2800308
+105,Sudeste,São Paulo,SP,Marília,3529005
+106,Sul,Rio Grande do Sul,RS,Erechim,4307005
+107,Sul,Rio Grande do Sul,RS,Santa Maria,4316907
+108,Sul,Paraná,PR,Rolândia,4122404
+109,Sudeste,Minas Gerais,MG,Muriaé,3143906
+110,Sul,Paraná,PR,Umuarama,4128104
+111,Sudeste,São Paulo,SP,Ituverava,3524105
+112,Sudeste,São Paulo,SP,Itu,3523909
+113,Sul,Santa Catarina,SC,Mafra,4210100
+114,Sul,Rio Grande do Sul,RS,Cruz Alta,4306106
+115,Sul,Rio Grande do Sul,RS,Canoas,4304606
+116,Norte,Rondônia,RO,Ji-Paraná,1100122
+117,Norte,Pará,PA,Santarém,1506807
+118,Norte,Tocantins,TO,Palmas,1721000
+119,Sul,Rio Grande do Sul,RS,Camaquã,4303509
+120,Sudeste,Rio de Janeiro,RJ,Duque de Caxias,3301702
+121,Sudeste,Rio de Janeiro,RJ,Resende,3304201
+122,Sudeste,Rio de Janeiro,RJ,Teresópolis,3305802
+123,Sudeste,São Paulo,SP,Guarulhos,3518800
+124,Sul,Santa Catarina,SC,Criciúma,4204608
+125,Sudeste,Rio de Janeiro,RJ,Volta Redonda,3306305
+126,Sudeste,Rio de Janeiro,RJ,Valença,3306107
+127,Sudeste,São Paulo,SP,Guarujá,3518701
+128,Sudeste,São Paulo,SP,Guaratinguetá,3518404
+129,Sul,Santa Catarina,SC,Tubarão,4218707
+130,Sudeste,São Paulo,SP,Bragança Paulista,3507605
+131,Sudeste,Rio de Janeiro,RJ,Campos dos Goytacazes,3301009
+132,Sudeste,Minas Gerais,MG,Ituiutaba,3134202
+133,Sudeste,Rio de Janeiro,RJ,Barra Mansa,3300407
+134,Sudeste,Rio de Janeiro,RJ,Niterói,3303302
+135,Sudeste,São Paulo,SP,Jaboticabal,3524303
+136,Sul,Rio Grande do Sul,RS,Ijuí,4310207
+137,Sudeste,São Paulo,SP,Itapetininga,3522307
+138,Sul,Paraná,PR,Mandaguari,4114203
+139,Sudeste,Minas Gerais,MG,Itabira,3131703
+140,Nordeste,Maranhão,MA,São Luís,2111300
+141,Norte,Acre,AC,Rio Branco,1200401
+142,Nordeste,Paraíba,PB,Campina Grande,2504009
+143,Sudeste,Minas Gerais,MG,Boa Esperança,3107109
+144,Nordeste,Rio Grande do Norte,RN,Natal,2408102
+145,Sudeste,Rio de Janeiro,RJ,Seropédica,3305554
+146,Sudeste,Minas Gerais,MG,Lavras,3138203
+147,Sudeste,Minas Gerais,MG,Diamantina,3121605
+148,Sul,Rio Grande do Sul,RS,Bento Gonçalves,4302105
+149,Sudeste,Espírito Santo,ES,Cachoeiro de Itapemirim,3201209
+150,Sudeste,São Paulo,SP,Cruzeiro,3513405
+151,Sul,Paraná,PR,Cascavel,4104808
+152,Sudeste,Minas Gerais,MG,Além Paraíba,3101508
+153,Sudeste,São Paulo,SP,Capivari,3510401
+154,Sul,Rio Grande do Sul,RS,Osório,4313508
+155,Sul,Rio Grande do Sul,RS,Farroupilha,4307906
+156,Sudeste,Minas Gerais,MG,Nova Lima,3144805
+157,Sul,Santa Catarina,SC,Jaraguá do Sul,4208906
+158,Sul,Paraná,PR,União da Vitória,4128203
+159,Sudeste,São Paulo,SP,Pindamonhangaba,3538006
+160,Nordeste,Pernambuco,PE,Serra Talhada,2613909
+161,Sudeste,Rio de Janeiro,RJ,São Gonçalo,3304904
+162,Sudeste,Espírito Santo,ES,Vila Velha,3205200
+163,Sudeste,São Paulo,SP,Taubaté,3554102
+164,Nordeste,Bahia,BA,Feira de Santana,2910800
+165,Centro-Oeste,Mato Grosso do Sul,MS,Dourados,5003702
+166,Nordeste,Pernambuco,PE,Belém do São Francisco,2601607
+167,Sudeste,Minas Gerais,MG,Paracatu,3147006
+168,Nordeste,Pernambuco,PE,Belo Jardim,2601706
+169,Nordeste,Pernambuco,PE,Limoeiro,2608909
+170,Nordeste,Bahia,BA,Vitória da Conquista,2933307
+171,Nordeste,Pernambuco,PE,Petrolina,2611101
+172,Norte,Rondônia,RO,Porto Velho,1100205
+173,Nordeste,Pernambuco,PE,Garanhuns,2606002
+174,Nordeste,Pernambuco,PE,Goiana,2606200
+175,Nordeste,Pernambuco,PE,Araripina,2601102
+176,Sudeste,São Paulo,SP,Botucatu,3507506
+177,Centro-Oeste,Mato Grosso,MT,Cáceres,5102504
+178,Nordeste,Pernambuco,PE,Cabo de Santo Agostinho,2602902
+179,Sudeste,São Paulo,SP,Assis,3504008
+180,Sudeste,Minas Gerais,MG,Luz,3138807
+181,Sudeste,Minas Gerais,MG,Curvelo,3120904
+182,Sul,Paraná,PR,Ponta Grossa,4119905
+183,Sudeste,São Paulo,SP,Mogi Guaçu,3530706
+184,Sudeste,Espírito Santo,ES,Linhares,3203205
+185,Sudeste,São Paulo,SP,Lorena,3527207
+186,Centro-Oeste,Goiás,GO,Anicuns,5201306
+187,Sudeste,São Paulo,SP,São Manuel,3550100
+188,Nordeste,Ceará,CE,Crato,2304202
+189,Norte,Tocantins,TO,Gurupi,1709500
+190,Sudeste,Minas Gerais,MG,Pará de Minas,3147105
+191,Nordeste,Pernambuco,PE,Salgueiro,2612208
+192,Centro-Oeste,Goiás,GO,Catalão,5205109
+193,Centro-Oeste,Goiás,GO,Jataí,5211909
+194,Sudeste,São Paulo,SP,Jacareí,3524402
+195,Centro-Oeste,Mato Grosso do Sul,MS,Ponta Porã,5006606
+196,Centro-Oeste,Mato Grosso,MT,Rondonópolis,5107602
+197,Centro-Oeste,Mato Grosso,MT,Tangará da Serra,5107958
+198,Norte,Roraima,RR,Boa Vista,1400100
+199,Centro-Oeste,Mato Grosso,MT,Várzea Grande,5108402
+200,Centro-Oeste,Mato Grosso,MT,Diamantino,5103502
+201,Centro-Oeste,Mato Grosso,MT,Jaciara,5104807
+202,Norte,Rondônia,RO,Vilhena,1100304
+203,Sudeste,Espírito Santo,ES,Aracruz,3200607
+204,Sudeste,Minas Gerais,MG,Reduto,3154150
+205,Sul,Paraná,PR,Assis Chateaubriand,4102000
+206,Centro-Oeste,Goiás,GO,Goiatuba,5209101
+207,Centro-Oeste,Goiás,GO,Luziânia,5212501
+208,Sudeste,Minas Gerais,MG,São Lourenço,3163706
+209,Norte,Amapá,AP,Macapá,1600303
+210,Sudeste,São Paulo,SP,Olímpia,3533908
+211,Norte,Rondônia,RO,Ariquemes,1100023
+212,Sudeste,São Paulo,SP,Birigui,3506508
+213,Sudeste,São Paulo,SP,Araçatuba,3502804
+214,Sul,Paraná,PR,Foz do Iguaçu,4108304
+215,Sudeste,Espírito Santo,ES,Viana,3205101
+216,Sudeste,Minas Gerais,MG,Coronel Fabriciano,3119401
+217,Sudeste,São Paulo,SP,Bebedouro,3506102
+218,Sudeste,São Paulo,SP,Hortolândia,3519071
+219,Sudeste,Rio de Janeiro,RJ,Belford Roxo,3300456
+220,Sudeste,São Paulo,SP,Mogi Mirim,3530805
+221,Centro-Oeste,Mato Grosso do Sul,MS,Paranaíba,5006309
+222,Centro-Oeste,Mato Grosso do Sul,MS,Fátima do Sul,5003801
+223,Sudeste,São Paulo,SP,Dracena,3514403
+224,Sudeste,São Paulo,SP,São Roque,3550605
+225,Sudeste,Minas Gerais,MG,Januária,3135209
+226,Sudeste,São Paulo,SP,Taquaritinga,3553708
+227,Centro-Oeste,Goiás,GO,Rubiataba,5218904
+228,Sudeste,Minas Gerais,MG,Iguatama,3130309
+229,Nordeste,Pernambuco,PE,Afogados da Ingazeira,2600104
+230,Sudeste,Minas Gerais,MG,Unaí,3170404
+231,Nordeste,Pernambuco,PE,Timbaúba,2615300
+232,Centro-Oeste,Mato Grosso do Sul,MS,Três Lagoas,5008305
+233,Sul,Rio Grande do Sul,RS,Lajeado,4311403
+234,Sudeste,São Paulo,SP,Leme,3526704
+235,Centro-Oeste,Goiás,GO,Jussara,5212204
+236,Sudeste,Minas Gerais,MG,Iturama,3134400
+237,Nordeste,Paraíba,PB,Cabedelo,2503209
+238,Nordeste,Paraíba,PB,Cajazeiras,2503704
+239,Sul,Paraná,PR,Campo Mourão,4104303
+240,Sudeste,São Paulo,SP,Presidente Epitácio,3541307
+241,Sudeste,São Paulo,SP,Mirassol,3530300
+242,Sudeste,São Paulo,SP,Osvaldo Cruz,3534609
+243,Nordeste,Bahia,BA,Barreiras,2903201
+244,Sul,Paraná,PR,Guarapuava,4109401
+245,Sudeste,Minas Gerais,MG,Itaúna,3133808
+246,Nordeste,Pernambuco,PE,Igarassu,2606804
+247,Sudeste,São Paulo,SP,Mairiporã,3528502
+248,Sudeste,São Paulo,SP,Salto,3545209
+249,Centro-Oeste,Mato Grosso do Sul,MS,Corumbá,5003207
+250,Sudeste,Rio de Janeiro,RJ,Itaboraí,3301900
+251,Sudeste,Espírito Santo,ES,Santa Teresa,3204609
+252,Centro-Oeste,Mato Grosso,MT,Alta Floresta,5100250
+253,Nordeste,Bahia,BA,Camaçari,2905701
+254,Sudeste,Minas Gerais,MG,Sabará,3156700
+255,Sudeste,São Paulo,SP,Caraguatatuba,3510500
+256,Sul,Santa Catarina,SC,Lages,4209300
+257,Sul,Paraná,PR,Lapa,4113205
+258,Sudeste,São Paulo,SP,Paraguaçu Paulista,3535507
+259,Sudeste,São Paulo,SP,Jales,3524808
+260,Sudeste,São Paulo,SP,Amparo,3501905
+261,Sudeste,São Paulo,SP,Espírito Santo do Pinhal,3515186
+262,Sul,Rio Grande do Sul,RS,Santo Ângelo,4317509
+263,Centro-Oeste,Goiás,GO,Aparecida de Goiânia,5201405
+264,Sudeste,Espírito Santo,ES,Cariacica,3201308
+265,Sudeste,Espírito Santo,ES,Serra,3205002
+266,Sudeste,Espírito Santo,ES,Castelo,3201407
+267,Centro-Oeste,Mato Grosso do Sul,MS,Nova Andradina,5006200
+268,Centro-Oeste,Mato Grosso do Sul,MS,Costa Rica,5003256
+269,Sudeste,Minas Gerais,MG,Itabirito,3131901
+270,Sudeste,São Paulo,SP,Pereira Barreto,3537404
+271,Sul,Santa Catarina,SC,São José,4216602
+272,Sudeste,São Paulo,SP,Campo Limpo Paulista,3509601
+273,Sudeste,São Paulo,SP,Itápolis,3522703
+274,Sudeste,São Paulo,SP,Cotia,3513009
+275,Sudeste,São Paulo,SP,Itapeva,3522406
+276,Sul,Paraná,PR,Santo Antônio da Platina,4124103
+277,Sudeste,São Paulo,SP,Adamantina,3500105
+278,Sudeste,São Paulo,SP,Fernandópolis,3515509
+279,Sudeste,São Paulo,SP,Matão,3529302
+280,Sudeste,São Paulo,SP,Ribeirão Pires,3543303
+281,Centro-Oeste,Mato Grosso,MT,Sinop,5107909
+282,Sudeste,São Paulo,SP,Garça,3516705
+283,Sudeste,São Paulo,SP,Suzano,3552502
+284,Sudeste,Minas Gerais,MG,Juatuba,3136652
+285,Sudeste,São Paulo,SP,Avaré,3504503
+286,Sul,Paraná,PR,Apucarana,4101408
+287,Sul,Paraná,PR,Pato Branco,4118501
+288,Nordeste,Ceará,CE,Aracati,2301109
+289,Sudeste,São Paulo,SP,Santa Fé do Sul,3546603
+290,Sudeste,Espírito Santo,ES,Nova Venécia,3203908
+291,Sudeste,Minas Gerais,MG,Ubá,3169901
+292,Sudeste,São Paulo,SP,Casa Branca,3510807
+293,Centro-Oeste,Mato Grosso,MT,Guarantã do Norte,5104104
+294,Centro-Oeste,Mato Grosso,MT,Araputanga,5101258
+295,Nordeste,Pernambuco,PE,Ipojuca,2607208
+296,Centro-Oeste,Goiás,GO,Caldas Novas,5204508
+297,Sul,Paraná,PR,São José dos Pinhais,4125506
+298,Centro-Oeste,Goiás,GO,Valparaíso de Goiás,5221858
+299,Norte,Rondônia,RO,Pimenta Bueno,1100189
+300,Centro-Oeste,Goiás,GO,Piracanjuba,5217104
+301,Sudeste,São Paulo,SP,Rosana,3544251
+302,Sul,Paraná,PR,Campo Largo,4104204
+303,Centro-Oeste,Goiás,GO,Itumbiara,5211503
+304,Sudeste,São Paulo,SP,Bertioga,3506359
+305,Sudeste,São Paulo,SP,Lençóis Paulista,3526803
+306,Sudeste,São Paulo,SP,Itapira,3522604
+307,Sudeste,São Paulo,SP,Rio Claro,3543907
+308,Centro-Oeste,Goiás,GO,Trindade,5221403
+309,Sul,Paraná,PR,Ibaiti,4109708
+310,Sudeste,Minas Gerais,MG,Patrocínio,3148103
+311,Nordeste,Bahia,BA,Alagoinhas,2900702
+312,Sudeste,São Paulo,SP,Sertãozinho,3551702
+313,Sudeste,Minas Gerais,MG,Monte Carmelo,3143104
+314,Sudeste,São Paulo,SP,Barueri,3505708
+315,Sul,Santa Catarina,SC,Indaial,4207502
+316,Sudeste,São Paulo,SP,Jaguariúna,3524709
+317,Sudeste,São Paulo,SP,Santa Cruz do Rio Pardo,3546405
+318,Sudeste,São Paulo,SP,Taboão da Serra,3552809
+319,Sul,Paraná,PR,São Miguel do Iguaçu,4125704
+320,Sudeste,Espírito Santo,ES,São Mateus,3204906
+321,Sul,Paraná,PR,Francisco Beltrão,4108403
+322,Sul,Paraná,PR,Pinhais,4119152
+323,Sul,Paraná,PR,Telêmaco Borba,4127106
+324,Sudeste,São Paulo,SP,Boituva,3507001
+325,Nordeste,Maranhão,MA,Pedreiras,2108207
+326,Nordeste,Ceará,CE,Juazeiro do Norte,2307304
+327,Nordeste,Piauí,PI,Parnaíba,2207702
+328,Sudeste,São Paulo,SP,Registro,3542602
+329,Sudeste,Minas Gerais,MG,João Monlevade,3136207
+330,Sudeste,Espírito Santo,ES,Colatina,3201506
+331,Sudeste,São Paulo,SP,Ilha Solteira,3520442
+332,Nordeste,Bahia,BA,Lauro de Freitas,2919207
+333,Sudeste,Minas Gerais,MG,Caratinga,3113404
+334,Nordeste,Bahia,BA,Itamaraju,2915601
+335,Sul,Paraná,PR,Medianeira,4115804
+336,Sudeste,Minas Gerais,MG,Araxá,3104007
+337,Sul,Paraná,PR,Loanda,4113502
+338,Sudeste,Minas Gerais,MG,Santa Luzia,3157807
+339,Sudeste,São Paulo,SP,Indaiatuba,3520509
+340,Sudeste,Minas Gerais,MG,Coromandel,3119302
+341,Centro-Oeste,Mato Grosso do Sul,MS,Cassilândia,5002902
+342,Sul,Rio Grande do Sul,RS,Alvorada,4300604
+343,Nordeste,Piauí,PI,Corrente,2202901
+344,Sul,Paraná,PR,Arapoti,4101606
+345,Sul,Paraná,PR,Toledo,4127700
+346,Sul,Paraná,PR,Ivatuba,4111605
+347,Sul,Paraná,PR,Astorga,4102109
+348,Sul,Paraná,PR,Paranaguá,4118204
+349,Sudeste,São Paulo,SP,Novo Horizonte,3533502
+350,Sudeste,São Paulo,SP,Nova Odessa,3533403
+351,Sudeste,São Paulo,SP,Aguaí,3500303
+352,Nordeste,Bahia,BA,Paripiranga,2923803
+353,Nordeste,Bahia,BA,Itabuna,2914802
+354,Nordeste,Bahia,BA,Jequié,2918001
+355,Norte,Tocantins,TO,Paraíso do Tocantins,1716109
+356,Sudeste,Espírito Santo,ES,Guaçuí,3202306
+357,Sudeste,Minas Gerais,MG,Sete Lagoas,3167202
+358,Sul,Paraná,PR,Dois Vizinhos,4107207
+359,Sudeste,Minas Gerais,MG,Vespasiano,3171204
+360,Sudeste,Minas Gerais,MG,Ipatinga,3131307
+361,Sudeste,Minas Gerais,MG,Brumadinho,3109006
+362,Nordeste,Pernambuco,PE,Jaboatão dos Guararapes,2607901
+363,Sul,Paraná,PR,Campina Grande do Sul,4104006
+364,Sudeste,São Paulo,SP,São Vicente,3551009
+365,Sudeste,São Paulo,SP,Porto Ferreira,3540705
+366,Sudeste,São Paulo,SP,Itanhaém,3522109
+367,Centro-Oeste,Goiás,GO,Cristalina,5206206
+368,Nordeste,Pernambuco,PE,Vitória de Santo Antão,2616407
+369,Norte,Rondônia,RO,Jaru,1100114
+370,Centro-Oeste,Goiás,GO,Rio Verde,5218805
+371,Nordeste,Maranhão,MA,Imperatriz,2105302
+372,Sudeste,São Paulo,SP,Socorro,3552106
+373,Centro-Oeste,Mato Grosso,MT,Primavera do Leste,5107040
+374,Sudeste,São Paulo,SP,Pederneiras,3536703
+375,Sul,Paraná,PR,Marechal Cândido Rondon,4114609
+376,Nordeste,Pernambuco,PE,Carpina,2604007
+377,Sul,Santa Catarina,SC,Chapecó,4204202
+378,Sul,Santa Catarina,SC,Itapiranga,4208401
+379,Sul,Santa Catarina,SC,Guaramirim,4206504
+380,Sul,Rio Grande do Sul,RS,Horizontina,4309605
+381,Sudeste,São Paulo,SP,Ipaussu,3520905
+382,Sul,Santa Catarina,SC,Xaxim,4219705
+383,Centro-Oeste,Mato Grosso,MT,Colíder,5103205
+384,Sudeste,Minas Gerais,MG,Machado,3139003
+385,Sul,Paraná,PR,Cambé,4103701
+386,Nordeste,Bahia,BA,Teixeira de Freitas,2931350
+387,Sul,Paraná,PR,Cornélio Procópio,4106407
+388,Sul,Paraná,PR,Realeza,4121406
+389,Sul,Paraná,PR,Ubiratã,4128005
+390,Sudeste,São Paulo,SP,Mauá,3529401
+391,Sul,Santa Catarina,SC,São Bento do Sul,4215802
+392,Sudeste,São Paulo,SP,Agudos,3500709
+393,Norte,Tocantins,TO,Colinas do Tocantins,1705508
+394,Sul,Rio Grande do Sul,RS,Santa Rosa,4317202
+395,Sudeste,Minas Gerais,MG,Campo Belo,3111200
+396,Sudeste,São Paulo,SP,Lins,3527108
+397,Sudeste,Espírito Santo,ES,Santa Maria de Jetibá,3204559
+398,Sul,Rio Grande do Sul,RS,Marau,4311809
+399,Sudeste,Minas Gerais,MG,Santos Dumont,3160702
+400,Sudeste,São Paulo,SP,Ibitinga,3519600
+401,Sul,Paraná,PR,Araucária,4101804
+402,Nordeste,Pernambuco,PE,Escada,2605202
+403,Sudeste,São Paulo,SP,Praia Grande,3541000
+404,Sul,Paraná,PR,Colombo,4105805
+405,Norte,Rondônia,RO,Cacoal,1100049
+406,Sul,Santa Catarina,SC,Capivari de Baixo,4203956
+407,Sudeste,Minas Gerais,MG,Cataguases,3115300
+408,Nordeste,Maranhão,MA,Paço do Lumiar,2107506
+409,Centro-Oeste,Mato Grosso,MT,Lucas do Rio Verde,5105259
+410,Sudeste,Minas Gerais,MG,Nova Serrana,3145208
+411,Centro-Oeste,Mato Grosso,MT,Sorriso,5107925
+412,Sudeste,São Paulo,SP,Paulínia,3536505
+413,Centro-Oeste,Mato Grosso,MT,Barra do Garças,5101803
+414,Nordeste,Maranhão,MA,Caxias,2103000
+415,Sul,Santa Catarina,SC,Navegantes,4211306
+416,Sudeste,Minas Gerais,MG,Manhuaçu,3139409
+417,Sul,Santa Catarina,SC,Balneário Camboriú,4202008
+418,Sudeste,Minas Gerais,MG,Virginópolis,3171808
+419,Norte,Rondônia,RO,Rolim de Moura,1100288
+420,Nordeste,Bahia,BA,Guanambi,2911709
+421,Sul,Paraná,PR,Jaguariaíva,4112009
+422,Nordeste,Ceará,CE,Icó,2305407
+423,Nordeste,Bahia,BA,Santo Antônio de Jesus,2928703
+424,Norte,Acre,AC,Cruzeiro do Sul,1200203
+425,Norte,Pará,PA,Itaituba,1503606
+426,Sul,Rio Grande do Sul,RS,Nova Petrópolis,4313201
+427,Nordeste,Ceará,CE,Maranguape,2307700
+428,Sul,Paraná,PR,Palotina,4117909
+429,Sudeste,Minas Gerais,MG,São Sebastião do Paraíso,3164704
+430,Nordeste,Ceará,CE,Quixadá,2311306
+431,Norte,Tocantins,TO,Porto Nacional,1718204
+432,Nordeste,Bahia,BA,Porto Seguro,2925303
+433,Nordeste,Alagoas,AL,Palmeira dos Índios,2706307
+434,Nordeste,Bahia,BA,Ipirá,2914000
+435,Sul,Rio Grande do Sul,RS,Gravataí,4309209
+436,Sul,Rio Grande do Sul,RS,Ivoti,4310801
+437,Sudeste,Minas Gerais,MG,Nova Porteirinha,3145059
+438,Sul,Paraná,PR,Guaratuba,4109609
+439,Sudeste,São Paulo,SP,Tupi Paulista,3555109
+440,Nordeste,Bahia,BA,Paulo Afonso,2924009
+441,Nordeste,Rio Grande do Norte,RN,Parnamirim,2403251
+442,Sudeste,São Paulo,SP,Diadema,3513801
+443,Sudeste,Espírito Santo,ES,Guarapari,3202405
+444,Centro-Oeste,Goiás,GO,Formosa,5208004
+445,Sudeste,Minas Gerais,MG,Extrema,3125101
+446,Sul,Paraná,PR,Cafelândia,4103453
+447,Sudeste,São Paulo,SP,Piraju,3538808
+448,Sudeste,Rio de Janeiro,RJ,Rio das Ostras,3304524
+449,Centro-Oeste,Goiás,GO,São Luís de Montes Belos,5220108
+450,Norte,Pará,PA,Ananindeua,1500800
+451,Norte,Pará,PA,Capanema,1502202
+452,Nordeste,Piauí,PI,Floriano,2203909
+453,Sudeste,Minas Gerais,MG,Campos Gerais,3111606
+454,Sudeste,Minas Gerais,MG,João Pinheiro,3136306
+455,Sudeste,Minas Gerais,MG,Janaúba,3135100
+456,Centro-Oeste,Mato Grosso do Sul,MS,Chapadão do Sul,5002951
+457,Nordeste,Ceará,CE,Tianguá,2313401
+458,Nordeste,Bahia,BA,Cruz das Almas,2909802
+459,Sudeste,Minas Gerais,MG,Mariana,3140001
+460,Sul,Rio Grande do Sul,RS,Garibaldi,4308607
+461,Nordeste,Piauí,PI,Canto do Buriti,2202307
+462,Centro-Oeste,Goiás,GO,Pires do Rio,5217401
+463,Sudeste,Espírito Santo,ES,Venda Nova do Imigrante,3205069
+464,Nordeste,Maranhão,MA,Coroatá,2103604
+465,Norte,Pará,PA,Tucuruí,1508100
+466,Nordeste,Bahia,BA,Luís Eduardo Magalhães,2919553
+467,Nordeste,Bahia,BA,Valença,2932903
+468,Sudeste,Rio de Janeiro,RJ,Itaperuna,3302205
+469,Nordeste,Bahia,BA,Candeias,2906501
+470,Sudeste,São Paulo,SP,Barretos,3505500
+471,Sul,Paraná,PR,Pitanga,4119608
+472,Sudeste,Rio de Janeiro,RJ,Santo Antônio de Pádua,3304706
+473,Sul,Paraná,PR,Ampére,4101002
+474,Centro-Oeste,Mato Grosso,MT,Juína,5105150
+475,Nordeste,Bahia,BA,Eunápolis,2910727
+476,Sudeste,Minas Gerais,MG,Ponte Nova,3152105
+477,Nordeste,Alagoas,AL,Pão de Açúcar,2706406
+478,Sudeste,Minas Gerais,MG,Contagem,3118601
+479,Norte,Tocantins,TO,Araguaína,1702109
+480,Nordeste,Bahia,BA,Capim Grosso,2906873
+481,Sudeste,Minas Gerais,MG,São Gotardo,3162104
+482,Norte,Rondônia,RO,Ouro Preto do Oeste,1100155
+483,Centro-Oeste,Goiás,GO,Iporá,5210208
+484,Sudeste,São Paulo,SP,São Sebastião,3550704
+485,Sul,Paraná,PR,Goioerê,4108601
+486,Nordeste,Piauí,PI,Água Branca,2200202
+487,Sul,Paraná,PR,Porecatu,4120002
+488,Sudeste,São Paulo,SP,Caieiras,3509007
+489,Sul,Rio Grande do Sul,RS,São Paulo das Missões,4319307
+490,Sul,Santa Catarina,SC,Concórdia,4204301
+491,Sudeste,Minas Gerais,MG,Mato Verde,3141009
+492,Sudeste,Minas Gerais,MG,Patos de Minas,3148004
+493,Norte,Pará,PA,Redenção,1506138
+494,Nordeste,Maranhão,MA,Chapadinha,2103208
+495,Nordeste,Alagoas,AL,Arapiraca,2700300
+496,Sudeste,Espírito Santo,ES,Anchieta,3200409
+497,Nordeste,Piauí,PI,Piripiri,2208403
+498,Sul,Rio Grande do Sul,RS,Sapucaia do Sul,4320008
+499,Centro-Oeste,Mato Grosso,MT,São José dos Quatro Marcos,5107107
+500,Sul,Paraná,PR,Capanema,4104501
+501,Centro-Oeste,Goiás,GO,Quirinópolis,5218508
+502,Sudeste,São Paulo,SP,Junqueirópolis,3526001
+503,Nordeste,Paraíba,PB,Patos,2510808
+504,Sudeste,Espírito Santo,ES,Barra de São Francisco,3200904
+505,Sul,Rio Grande do Sul,RS,Getúlio Vargas,4308904
+506,Norte,Tocantins,TO,Guaraí,1709302
+507,Nordeste,Bahia,BA,Juazeiro,2918407
+508,Nordeste,Maranhão,MA,Timon,2112209
+509,Nordeste,Sergipe,SE,Lagarto,2803500
+510,Nordeste,Rio Grande do Norte,RN,Currais Novos,2403103
+511,Sul,Rio Grande do Sul,RS,Cachoeirinha,4303103
+512,Sul,Santa Catarina,SC,Pinhalzinho,4212908
+513,Sudeste,São Paulo,SP,Presidente Venceslau,3541505
+514,Sudeste,Minas Gerais,MG,Nanuque,3144300
+515,Sul,Rio Grande do Sul,RS,Tapejara,4320909
+516,Sudeste,Minas Gerais,MG,Sabinópolis,3156809
+517,Nordeste,Pernambuco,PE,Santa Cruz do Capibaribe,2612505
+518,Sudeste,São Paulo,SP,Valinhos,3556206
+519,Nordeste,Rio Grande do Norte,RN,Açu,2400208
+520,Nordeste,Rio Grande do Norte,RN,Caicó,2402006
+521,Nordeste,Bahia,BA,Ribeira do Pombal,2926608
+522,Sul,Paraná,PR,Ivaiporã,4111506
+523,Nordeste,Maranhão,MA,Bacabal,2101202
+524,Sudeste,Minas Gerais,MG,Almenara,3101706
+525,Centro-Oeste,Goiás,GO,Uruaçu,5221601
+526,Norte,Amapá,AP,Santana,1600600
+527,Centro-Oeste,Goiás,GO,Goianésia,5208608
+528,Sudeste,Minas Gerais,MG,Frutal,3127107
+529,Sudeste,Minas Gerais,MG,Guaxupé,3128709
+530,Centro-Oeste,Goiás,GO,Águas Lindas de Goiás,5200258
+531,Nordeste,Piauí,PI,Picos,2208007
+532,Centro-Oeste,Goiás,GO,Itaberaí,5210406
+533,Sudeste,Minas Gerais,MG,Oliveira,3145604
+534,Sudeste,Minas Gerais,MG,Formiga,3126109
+535,Sudeste,São Paulo,SP,Santa Bárbara d'Oeste,3545803
+536,Sudeste,São Paulo,SP,São Joaquim da Barra,3549409
+537,Sudeste,São Paulo,SP,Roseira,3544301
+538,Centro-Oeste,Goiás,GO,Ceres,5205406
+539,Nordeste,Pernambuco,PE,Paulista,2610707
+540,Sul,Santa Catarina,SC,Orleans,4211702
+541,Sudeste,São Paulo,SP,Carapicuíba,3510609
+542,Sudeste,São Paulo,SP,Peruíbe,3537602
+543,Centro-Oeste,Goiás,GO,Mineiros,5213103
+544,Sudeste,Minas Gerais,MG,Pedro Leopoldo,3149309
+545,Centro-Oeste,Goiás,GO,Inhumas,5210000
+546,Sudeste,São Paulo,SP,Tietê,3554508
+547,Sudeste,Minas Gerais,MG,Betim,3106705
+548,Nordeste,Ceará,CE,Caucaia,2303709
+549,Nordeste,Maranhão,MA,Balsas,2101400
+550,Norte,Pará,PA,Marabá,1504208
+551,Sul,Santa Catarina,SC,Palmitos,4212106
+552,Nordeste,Bahia,BA,Cachoeira,2904902
+553,Centro-Oeste,Goiás,GO,Porangatu,5218003
+554,Sul,Paraná,PR,Paraíso do Norte,4118006
+555,Sul,Santa Catarina,SC,Porto Belo,4213500
+556,Sudeste,Minas Gerais,MG,Teófilo Otoni,3168606
+557,Nordeste,Bahia,BA,Riachão do Jacuípe,2926301
+558,Sul,Paraná,PR,Paranavaí,4118402
+559,Sudeste,São Paulo,SP,Itararé,3523206
+560,Sul,Rio Grande do Sul,RS,Restinga Sêca,4315503
+561,Sudeste,Minas Gerais,MG,Matipó,3140902
+562,Sudeste,Minas Gerais,MG,Poços de Caldas,3151800
+563,Sudeste,São Paulo,SP,Itapecerica da Serra,3522208
+564,Sudeste,São Paulo,SP,Conchas,3512308
+565,Norte,Pará,PA,Castanhal,1502400
+566,Sul,Santa Catarina,SC,Canoinhas,4203808
+567,Nordeste,Ceará,CE,Quixeramobim,2311405
+568,Nordeste,Piauí,PI,São Pedro do Piauí,2210508
+569,Sudeste,São Paulo,SP,Lupércio,3527801
+570,Sudeste,São Paulo,SP,Embu das Artes,3515004
+571,Sudeste,Rio de Janeiro,RJ,Bom Jesus do Itabapoana,3300605
+572,Sudeste,Rio de Janeiro,RJ,Três Rios,3306008
+573,Sudeste,Rio de Janeiro,RJ,Paracambi,3303609
+574,Sul,Santa Catarina,SC,Caçador,4203006
+575,Sul,Santa Catarina,SC,São Miguel do Oeste,4217204
+576,Sudeste,Minas Gerais,MG,Carangola,3113305
+577,Sul,Rio Grande do Sul,RS,Taquara,4321204
+578,Sudeste,São Paulo,SP,Atibaia,3504107
+579,Sudeste,Espírito Santo,ES,Iúna,3203007
+580,Sudeste,Minas Gerais,MG,Leopoldina,3138401
+581,Sudeste,Minas Gerais,MG,Ouro Fino,3146008
+582,Nordeste,Bahia,BA,Santa Maria da Vitória,2928109
+583,Sul,Santa Catarina,SC,Palhoça,4211900
+584,Nordeste,Pernambuco,PE,São Lourenço da Mata,2613701
+585,Sudeste,São Paulo,SP,Sumaré,3552403
+586,Sudeste,Minas Gerais,MG,Pirapora,3151206
+587,Sudeste,São Paulo,SP,Votorantim,3557006
+588,Nordeste,Rio Grande do Norte,RN,Pau dos Ferros,2409407
+589,Nordeste,Bahia,BA,Remanso,2926004
+590,Nordeste,Bahia,BA,Monte Santo,2921500
+591,Sul,Paraná,PR,Cruzeiro do Oeste,4106605
+592,Sul,Rio Grande do Sul,RS,Estrela,4307807
+593,Sul,Paraná,PR,Capitão Leônidas Marques,4104600
+594,Norte,Pará,PA,Altamira,1500602
+595,Centro-Oeste,Mato Grosso do Sul,MS,Caarapó,5002407
+596,Nordeste,Ceará,CE,Crateús,2304103
+597,Sudeste,São Paulo,SP,Cachoeira Paulista,3508603
+598,Sudeste,Rio de Janeiro,RJ,São Fidélis,3304805
+599,Sul,Rio Grande do Sul,RS,São Marcos,4319000
+600,Nordeste,Ceará,CE,São Gonçalo do Amarante,2312403
+601,Sul,Santa Catarina,SC,Araranguá,4201406
+602,Nordeste,Bahia,BA,Itaberaba,2914703
+603,Sudeste,São Paulo,SP,Porto Feliz,3540606
+604,Norte,Pará,PA,Benevides,1501501
+605,Centro-Oeste,Goiás,GO,Itapuranga,5211206
+606,Sudeste,Minas Gerais,MG,Aimorés,3101102
+607,Sudeste,Minas Gerais,MG,Baependi,3104908
+608,Sudeste,Minas Gerais,MG,São João Nepomuceno,3162906
+609,Sudeste,Minas Gerais,MG,Itanhandu,3133105
+610,Sudeste,Minas Gerais,MG,Lambari,3137809
+611,Sudeste,Minas Gerais,MG,Barão de Cocais,3105400
+612,Sudeste,Minas Gerais,MG,Três Pontas,3169406
+613,Sudeste,Minas Gerais,MG,Elói Mendes,3123601
+614,Sudeste,Minas Gerais,MG,Timóteo,3168705
+615,Centro-Oeste,Goiás,GO,Senador Canedo,5220454
+616,Nordeste,Sergipe,SE,Tobias Barreto,2807402
+617,Sudeste,São Paulo,SP,Francisco Morato,3516309
+618,Sul,Rio Grande do Sul,RS,Igrejinha,4310108
+619,Sudeste,São Paulo,SP,Ribeirão Bonito,3542909
+620,Sudeste,Espírito Santo,ES,São Gabriel da Palha,3204708
+621,Nordeste,Bahia,BA,Coronel João Sá,2909208
+622,Sul,Paraná,PR,Jacarezinho,4111803
+623,Norte,Pará,PA,Parauapebas,1505536
+624,Centro-Oeste,Goiás,GO,Jaraguá,5211800
+625,Sudeste,Minas Gerais,MG,Bom Despacho,3107406
+626,Sudeste,Minas Gerais,MG,Visconde do Rio Branco,3172004
+627,Nordeste,Ceará,CE,Redenção,2311603
+628,Nordeste,Bahia,BA,Irecê,2914604
+629,Sudeste,São Paulo,SP,Itaquaquecetuba,3523107
+630,Sudeste,São Paulo,SP,Capão Bonito,3510203
+631,Nordeste,Pernambuco,PE,Surubim,2614501
+632,Nordeste,Ceará,CE,Iguatu,2305506
+633,Nordeste,Bahia,BA,Serrinha,2930501
+634,Norte,Pará,PA,Abaetetuba,1500107
+635,Norte,Tocantins,TO,Augustinópolis,1702554
+636,Norte,Tocantins,TO,Pedro Afonso,1716505
+637,Sul,Santa Catarina,SC,Timbó,4218202
+638,Nordeste,Ceará,CE,Horizonte,2305233
+639,Norte,Pará,PA,Paragominas,1505502
+640,Norte,Tocantins,TO,Araguatins,1702208
+641,Nordeste,Piauí,PI,São Raimundo Nonato,2210607
+642,Norte,Pará,PA,Novo Progresso,1505031
+643,Norte,Pará,PA,Breves,1501808
+644,Nordeste,Ceará,CE,Limoeiro do Norte,2307601
+645,Nordeste,Maranhão,MA,Lago da Pedra,2105708
+646,Centro-Oeste,Goiás,GO,Novo Gama,5215231
+647,Nordeste,Ceará,CE,Baturité,2302107
+648,Nordeste,Maranhão,MA,São Mateus do Maranhão,2111508
+649,Nordeste,Ceará,CE,Maracanaú,2307650
+650,Nordeste,Bahia,BA,Euclides da Cunha,2910701
+651,Nordeste,Piauí,PI,São João do Piauí,2210003
+652,Sudeste,São Paulo,SP,Itapevi,3522505
+653,Sudeste,Rio de Janeiro,RJ,Paraíba do Sul,3303708
+654,Sudeste,São Paulo,SP,Pompéia,3540002
+655,Sul,Paraná,PR,Arapongas,4101507
+656,Sudeste,São Paulo,SP,Teodoro Sampaio,3554300
+657,Sul,Rio Grande do Sul,RS,Sarandi,4320107
+658,Nordeste,Bahia,BA,Queimadas,2925808
+659,Nordeste,Maranhão,MA,Açailândia,2100055
+660,Sudeste,São Paulo,SP,Arujá,3503901
+661,Nordeste,Bahia,BA,Tucano,2931905
+662,Centro-Oeste,Mato Grosso do Sul,MS,Mundo Novo,5005681
+663,Nordeste,Maranhão,MA,Parnarama,2107803
+664,Norte,Pará,PA,Igarapé-Miri,1503309
+665,Sudeste,Minas Gerais,MG,Araçuaí,3103405
+666,Centro-Oeste,Mato Grosso,MT,Campo Novo do Parecis,5102637
+667,Centro-Oeste,Mato Grosso,MT,Juara,5105101
+668,Nordeste,Bahia,BA,Conceição do Coité,2908408
+669,Sudeste,São Paulo,SP,Caçapava,3508504
+670,Sudeste,Minas Gerais,MG,Guanhães,3128006
+671,Nordeste,Bahia,BA,Jeremoabo,2918100
+672,Nordeste,Bahia,BA,Senhor do Bonfim,2930105
+673,Nordeste,Maranhão,MA,Codó,2103307
+674,Nordeste,Piauí,PI,Campo Maior,2202208
+675,Nordeste,Piauí,PI,Elesbão Veloso,2203503
+676,Nordeste,Ceará,CE,Santa Quitéria,2312205
+677,Nordeste,Alagoas,AL,Penedo,2706703
+678,Sul,Paraná,PR,Iporã,4110607
+679,Sudeste,São Paulo,SP,Taguaí,3553005
+680,Nordeste,Maranhão,MA,Itinga do Maranhão,2105427
+681,Nordeste,Bahia,BA,Bom Jesus da Lapa,2903904
+682,Nordeste,Bahia,BA,Brumado,2904605
+683,Nordeste,Maranhão,MA,Barra do Corda,2101608
+684,Nordeste,Sergipe,SE,Canindé de São Francisco,2801207
+685,Sudeste,São Paulo,SP,Piratininga,3539400
+686,Nordeste,Maranhão,MA,Santa Inês,2109908
+687,Nordeste,Bahia,BA,Jacobina,2917508
+688,Sudeste,Minas Gerais,MG,Araguari,3103504
+689,Sudeste,Minas Gerais,MG,Porteirinha,3152204
+690,Sul,Paraná,PR,Cianorte,4105508
+691,Nordeste,Pernambuco,PE,Nazaré da Mata,2609501
+692,Sudeste,Minas Gerais,MG,Ribeirão das Neves,3154606
+693,Nordeste,Maranhão,MA,Bacabeira,2101251
+694,Nordeste,Ceará,CE,Cascavel,2303501
+695,Sudeste,São Paulo,SP,Santana de Parnaíba,3547304
+696,Sudeste,Rio de Janeiro,RJ,Queimados,3304144
+697,Nordeste,Paraíba,PB,Guarabira,2506301
+698,Sul,Paraná,PR,Fazenda Rio Grande,4107652
+699,Centro-Oeste,Goiás,GO,Indiara,5209952
+700,Sudeste,São Paulo,SP,Holambra,3519055
+701,Norte,Pará,PA,Bragança,1501709
+702,Nordeste,Ceará,CE,Itapipoca,2306405
+703,Sul,Rio Grande do Sul,RS,Uruguaiana,4322400
+704,Nordeste,Ceará,CE,Milhã,2308351
+705,Sudeste,Minas Gerais,MG,Cambuquira,3110707
+706,Sul,Paraná,PR,Barracão,4102604
+707,Sudeste,Minas Gerais,MG,São Francisco,3161106
+708,Sul,Paraná,PR,Terra Boa,4127205
+709,Nordeste,Ceará,CE,Alto Santo,2300705
+710,Sudeste,Minas Gerais,MG,Passos,3147907
+711,Sul,Santa Catarina,SC,Catanduvas,4204004
+712,Centro-Oeste,Goiás,GO,Palmeiras de Goiás,5215702
+713,Norte,Pará,PA,São Félix do Xingu,1507300
+714,Nordeste,Ceará,CE,Pacajus,2309607
+715,Nordeste,Pernambuco,PE,Cabrobó,2603009
+716,Nordeste,Maranhão,MA,Pinheiro,2108603
+717,Sul,Santa Catarina,SC,Itapema,4208302
+718,Nordeste,Paraíba,PB,Sousa,2516201
+719,Nordeste,Ceará,CE,Croatá,2304236
+720,Sul,Paraná,PR,Prudentópolis,4120606
+721,Sul,Paraná,PR,Clevelândia,4105706
+722,Nordeste,Pernambuco,PE,São José do Egito,2613602
+723,Sudeste,Rio de Janeiro,RJ,Miguel Pereira,3302908
+724,Centro-Oeste,Mato Grosso,MT,Matupá,5105606
+725,Nordeste,Paraíba,PB,Sumé,2516300
+726,Sudeste,São Paulo,SP,Itatiba,3523404
+727,Sudeste,Rio de Janeiro,RJ,Maricá,3302700
+728,Sudeste,São Paulo,SP,Ferraz de Vasconcelos,3515707
+729,Sudeste,São Paulo,SP,Franco da Rocha,3516408
+730,Sudeste,Rio de Janeiro,RJ,Cabo Frio,3300704
+731,Sudeste,Minas Gerais,MG,Mantena,3139607
+732,Sudeste,Rio de Janeiro,RJ,Araruama,3300209
+733,Norte,Pará,PA,Tailândia,1507953
+734,Norte,Amazonas,AM,Manacapuru,1302504
+735,Nordeste,Sergipe,SE,Umbaúba,2807600
+736,Centro-Oeste,Mato Grosso,MT,Alto Boa Vista,5100359
+737,Sudeste,Minas Gerais,MG,Bertópolis,3106606
+738,Nordeste,Paraíba,PB,São Bento,2513901
+739,Nordeste,Bahia,BA,Casa Nova,2907202
+740,Centro-Oeste,Mato Grosso,MT,Campo Verde,5102678
+741,Nordeste,Rio Grande do Norte,RN,São Miguel,2412500
+742,Nordeste,Ceará,CE,Canindé,2302800
+743,Norte,Pará,PA,Xinguara,1508407
+744,Sudeste,São Paulo,SP,Cerquilho,3511508
+745,Centro-Oeste,Mato Grosso,MT,Nova Mutum,5106224
+746,Nordeste,Ceará,CE,Ipu,2305803
+747,Centro-Oeste,Goiás,GO,Pontalina,5217708
+748,Sudeste,Minas Gerais,MG,Capelinha,3112307
+749,Norte,Rondônia,RO,Seringueiras,1101500
+750,Norte,Pará,PA,Ourilândia do Norte,1505437
+751,Nordeste,Bahia,BA,Irará,2914505
+752,Nordeste,Sergipe,SE,Nossa Senhora do Socorro,2804805
+753,Nordeste,Maranhão,MA,Presidente Dutra,2109106
+754,Centro-Oeste,Goiás,GO,Santa Terezinha de Goiás,5219704
+755,Nordeste,Ceará,CE,Guaiúba,2304954
+756,Sudeste,São Paulo,SP,Martinópolis,3529203
+757,Nordeste,Pernambuco,PE,Trindade,2615607
+758,Nordeste,Ceará,CE,Eusébio,2304285
+759,Norte,Amazonas,AM,Itacoatiara,1301902
+760,Norte,Amazonas,AM,Coari,1301209
+761,Norte,Amazonas,AM,Parintins,1303403
+762,Norte,Amazonas,AM,Tefé,1304203
+763,Sudeste,Rio de Janeiro,RJ,São João de Meriti,3305109
+764,Nordeste,Piauí,PI,Uruçuí,2211209
+765,Nordeste,Ceará,CE,Camocim,2302602
+766,Sul,Paraná,PR,Irati,4110706
+767,Nordeste,Ceará,CE,Parambu,2310308
+768,Nordeste,Alagoas,AL,Cacimbinhas,2701209
+769,Centro-Oeste,Goiás,GO,Padre Bernardo,5215603
+770,Nordeste,Pernambuco,PE,Floresta,2605707
+771,Sudeste,Rio de Janeiro,RJ,Itaguaí,3302007
+772,Nordeste,Pernambuco,PE,Bezerros,2601904
+773,Nordeste,Bahia,BA,Ibicaraí,2912103
+774,Centro-Oeste,Goiás,GO,Cidade Ocidental,5205497
+775,Nordeste,Bahia,BA,Amargosa,2901007
+776,Sul,Paraná,PR,Bandeirantes,4102406
+777,Centro-Oeste,Mato Grosso,MT,Água Boa,5100201
